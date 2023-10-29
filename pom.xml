@@ -11,7 +11,7 @@
 	<groupId>pe.edu.cibertec</groupId>
 	<artifactId>CL2IsaiasCapistrano</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DAWI_CL2_GAGO_ENZO</name>
+	<name>CL2IsaiasCapistrano</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
